@@ -1,0 +1,14 @@
+{
+	"presentRect": [
+		[0,0],
+		[1280,352]
+	],
+	"pastRect" : [
+		[0,352],
+		[1280,704]
+	],
+	"logicAreas" : [],
+	"playerStart" : [96,48],
+	"doors": [],
+	"cameraLocks": [[[0,0],[1280,720],false,true]]
+}

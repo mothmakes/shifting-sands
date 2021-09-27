@@ -1,0 +1,31 @@
+{
+	"presentRect": [
+		[0,0],
+		[1280,352]
+	],
+	"pastRect" : [
+		[0,352],
+		[1280,704]
+	],
+	"logicAreas" : [
+		{
+			"region" : [[64,80],[128,128]],
+			"inputs" : [[1],[0]],
+			"outputs" : [0,1],
+			"inGates" : [
+				{
+					"relx" : -16,
+					"rely" : 24
+				}
+			],
+			"outGate" : {
+				"relx" : 64,
+				"rely" : 24
+			}
+		}
+	],
+	"playerStart" : [64,152],
+	"doors": [
+		[144,128,0,0]
+	]
+}

@@ -1,0 +1,1 @@
+sprite = spr_limestoneStepLargeAlternate2;
